@@ -9,6 +9,8 @@ public class Question1 {
         long original_no=number;//Same number taken from user stored
         long reverse=0;//Reversed Number
         int sum_even=0;//Sum of even integers
+
+        //Default string initialized
         String string="";
 
         //Reversing the number
